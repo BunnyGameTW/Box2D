@@ -1,0 +1,32 @@
+﻿  AppDelegate.cpp
+  JointScene.cpp
+d:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccparticlesystemquad.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 ..\Classes\AppDelegate.cpp)
+d:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccparticlesystemquad.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 ..\Classes\JointScene.cpp)
+d:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\physics\ccphysicsbody.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 ..\Classes\JointScene.cpp)
+d:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\physics\ccphysicsshape.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 ..\Classes\JointScene.cpp)
+d:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\physics\ccphysicsbody.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 ..\Classes\AppDelegate.cpp)
+d:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\physics\ccphysicsshape.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 ..\Classes\AppDelegate.cpp)
+d:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\platform\ccsaxparser.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 ..\Classes\JointScene.cpp)
+d:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\platform\ccsaxparser.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 ..\Classes\AppDelegate.cpp)
+d:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\ui\uiscale9sprite.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 ..\Classes\JointScene.cpp)
+d:\cocos\cocos\cocosprojects\mybox\classes\jointscene.cpp(437): warning C4305: '引數': 從 'double' 轉換為 'float32'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\cocos\cocos\cocosprojects\mybox\classes\jointscene.cpp(449): warning C4305: '引數': 從 'double' 轉換為 'float32'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\cocos\cocos\cocosprojects\mybox\classes\jointscene.cpp(461): warning C4305: '引數': 從 'double' 轉換為 'float32'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\cocos\cocos\cocosprojects\mybox\classes\jointscene.cpp(473): warning C4305: '引數': 從 'double' 轉換為 'float32'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\cocos\cocos\cocosprojects\mybox\classes\jointscene.cpp(330): warning C4101: 'rectRot': 未參考的區域變數
+d:\cocos\cocos\cocosprojects\mybox\classes\jointscene.cpp(1039): warning C4996: 'cocos2d::Director::sharedDirector': 宣告為已被取代
+  d:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\base\ccdirector.h(138): note: 請參閱 'cocos2d::Director::sharedDirector' 的宣告
+d:\cocos\cocos\cocosprojects\mybox\classes\jointscene.cpp(1041): warning C4996: 'cocos2d::Director::sharedDirector': 宣告為已被取代
+  d:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\base\ccdirector.h(138): note: 請參閱 'cocos2d::Director::sharedDirector' 的宣告
+d:\cocos\cocos\cocosprojects\mybox\classes\jointscene.cpp(1043): warning C4996: 'cocos2d::ccpDistance': 宣告為已被取代
+  d:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(214): note: 請參閱 'cocos2d::ccpDistance' 的宣告
+d:\cocos\cocos\cocosprojects\mybox\classes\jointscene.cpp(1055): warning C4996: 'cocos2d::ccp': 宣告為已被取代
+  d:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(49): note: 請參閱 'cocos2d::ccp' 的宣告
+d:\cocos\cocos\cocosprojects\mybox\classes\jointscene.cpp(1432): warning C4305: '引數': 從 'double' 轉換為 'float32'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\cocos\cocos\cocosprojects\mybox\classes\jointscene.cpp(1438): warning C4305: '引數': 從 'double' 轉換為 'float32'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  已複製 60 個檔案
+AppDelegate.obj : warning LNK4075: 忽略 '/EDITANDCONTINUE'，由於 '/SAFESEH' 規格
+     正在建立程式庫 D:\Cocos\Cocos\CocosProjects\Mybox\proj.win32\Debug.win32\Mybox.lib 和物件 D:\Cocos\Cocos\CocosProjects\Mybox\proj.win32\Debug.win32\Mybox.exp
+  Mybox.vcxproj -> D:\Cocos\Cocos\CocosProjects\Mybox\proj.win32\Debug.win32\Mybox.exe
+  Mybox.vcxproj -> D:\Cocos\Cocos\CocosProjects\Mybox\proj.win32\Debug.win32\Mybox.pdb (Full PDB)
+  已複製 0 個檔案
